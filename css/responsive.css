@@ -79,6 +79,13 @@
         margin-bottom: 45px;
     }
 
+    /* @media (max-width: 1250px) {
+        .pricing-container {
+          flex-direction: column;
+          height: 100%;
+        }
+      } */
+
     .info_section .info_items::before {
         width: 1px;
         height: 90%;
