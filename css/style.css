@@ -643,7 +643,7 @@ a:focus {
 .client_section .owl-carousel .owl-nav button {
   width: 50px;
   height: 50px;
-  background-color: #0355cc;
+  background-color: #dbdcdf;
   outline: none;
   margin: 0 20px;
   color: #ffffff;
@@ -659,15 +659,15 @@ a:focus {
   height: 50px;
   margin-bottom: 25px;
   padding-left: 25px;
-  background-color: #ffffff;
+  background-color: transparent;
   outline: none;
-  color: #ffffff;
+  color: #ce1010;
   -webkit-box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.2);
 }
 
 .contact_section input::-webkit-input-placeholder {
-  color: #737272;
+  color: #c20909;
 }
 
 .contact_section input:-ms-input-placeholder {
@@ -679,7 +679,7 @@ a:focus {
 }
 
 .contact_section input::placeholder {
-  color: #737272;
+  color: #0e0c0c;
 }
 
 .contact_section input.message-box {
@@ -695,13 +695,13 @@ a:focus {
   background-color: #0355cc;
   border: 1px solid #0355cc;
   border-radius: 0;
-  color: #ffffff;
+  color: #080672;
   margin-top: 15px;
 }
 
 .contact_section button:hover {
   background-color: transparent;
-  color: #0355cc;
+  color: #cc3203;
 }
 
 .contact_section .map_container {
